@@ -1,0 +1,13 @@
+.fe, .se {
+    font-size: 28px;
+    font-family: "helvetica", "Times New Roman", "sans-serif";
+}
+
+.fe {
+    background-color: #190606;
+    color: wheat;
+}
+
+.se {
+    background-color: #abb112;
+}
